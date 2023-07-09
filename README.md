@@ -2,4 +2,4 @@ Engineering student at [ENSAE](https://www.ensae.fr/en) and [Sorbonne University
 
 
 ### :fire: My Stats :
-![pbarbarant's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![pbarbarant's github stats](https://github-readme-stats.vercel.app/api?username=pbarbarant)
