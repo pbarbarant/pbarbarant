@@ -1,3 +1,1 @@
-Applied mathematics student at [ENSAE](https://www.ensae.fr/en), [Sorbonne University](https://sciences.sorbonne-universite.fr/en/formation-sciences/masters/master-informatique/parcours-ima) and [Polytechnique](https://www.ip-paris.fr/en/education/masters/mathematics-and-applications-program/master-2-mathematiques-pour-les-sciences-du-vivant).
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pbarbarant?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+PhD student in [Inria MIND](https://team.inria.fr/mind/) team. [fmralign](https://github.com/fmralign/fmralign) and [nilearn](https://github.com/nilearn/nilearn) core developer.
